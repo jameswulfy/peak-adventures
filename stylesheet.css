@@ -1,0 +1,108 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+	height: 50px;
+	background-color:hsla(186, 0%, 18%, 1);
+}
+
+.main {
+	height: 600px;
+	width: 100%;
+	background: url("pictures/peaking.jpg") no-repeat center center;
+	background-size: cover;
+	border: 1px solid black;
+}
+
+#title {
+	font-size: 100px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 100px;
+	float: right;
+	margin-top: 90px;
+	margin-right: 150px;
+	color: hsla(186, 0%, 100%, 0.53);
+}
+
+.team-text {
+	text-align: center;
+	margin-top: 40px;
+}
+
+#team {
+	font-size: 25px;
+	font-family: 'Poiret One', cursive;
+}
+
+#arrow {
+	display: block;
+	vertical-align: center;
+	margin-left: 48%;
+}
+
+.the-team {
+	margin-top: 40px;
+	display: table;
+	width: 100%;
+}
+
+.to-cell {
+	display: table-cell;
+}
+
+
+#james {
+	background-image: url("pictures/peakjames.jpg");
+}
+
+#ammon {
+	background-image: url("pictures/ammon.jpg");
+}
+
+#andy {
+	background-image: url("pictures/andy.jpg");
+}
+
+#stephen {
+	background-image: url("pictures/stephen.jpg");
+}
+
+.portrait {
+	margin: 0 auto;
+	width: 150px;
+	height: 150px;
+	border-radius: 100px;
+	background-size: 150px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+/*#andy {
+	max-height: 20%;
+	max-width: 20%;
+	margin-left: 14%;
+	border-radius: 100px;
+}
+
+#stephen {
+	max-height: 20%;
+	max-width: 20%;
+	margin-left: 13%;
+	border-radius: 100px;
+
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
