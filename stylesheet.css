@@ -76,10 +76,19 @@ body {
 	background-size: 150px;
 	background-repeat: no-repeat;
 	background-position: center center;
+	border: 1px;
 }
 
-#names {
+.names {
 	text-align: center;
+
+}
+
+.personal-description {
+	max-width: 150px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 
