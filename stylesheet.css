@@ -84,6 +84,10 @@ body {
 	background-image: url("pictures/stephen.jpg");
 }
 
+/*#isaac {
+	background-image: url("pictures/isaac.jpg");
+}*/
+
 .portrait {
 	margin: 0 auto;
 	width: 150px;
@@ -107,7 +111,9 @@ body {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-
+.the-team {
+	border-bottom: 1px solid black;
+}
 
 
 
